@@ -1,0 +1,32 @@
+* {
+  box-sizing: border-box;
+}
+
+.joke_wrap{
+  padding: 30px;
+  width: 600px;
+  margin: 0 auto;
+  /* margin: 30px; */
+  background-color: rgba(128, 128, 128, 0.309);
+  border-bottom: 1px solid #000;
+}
+
+.joking{
+  background-color: greenyellow;
+  padding: 10px;
+  width: 300px;
+  border-radius: 20px;
+  text-align: start;
+  margin: 0 0 0 auto;
+  margin-bottom: 20px;
+}
+
+.answer {
+  background-color: greenyellow;
+  padding: 10px;
+  width: 200px;
+  border-radius: 20px;
+  text-align: start;
+  margin: auto 0 0 0;
+}
+
